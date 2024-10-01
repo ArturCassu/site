@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 18% 15%;
+    gap: 5%;
+    font-family: sans-serif;
+}
